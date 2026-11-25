@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**arnavdedhia/arnavdedhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <!-- ==================== HEADER ==================== -->
 
@@ -22,9 +5,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=200&section=header&text=Arnav%20Dedhia&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Intelligent%20Things&descAlignY=60&descSize=18" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UIUC;AI%2FML+Enthusiast;Software+Engineer;Exploring+Cybersecurity;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UIUC;AI%2FML+Enthusiast;Software+Engineer;Exploring+Cybersecurity;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -42,8 +23,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## About Me
 
 Hi! I'm **Arnav**, a Computer Science student at the **University of Illinois Urbana-Champaign** with a passion for building technology that solves real-world problems.
@@ -57,8 +36,6 @@ I'm particularly interested in Artificial Intelligence and Machine Learning, and
 - Always learning something new and looking for interesting problems to solve!
 
 ---
-
-<!-- ==================== TECH STACK ==================== -->
 
 ## Tech Stack & Tools
 
@@ -86,11 +63,6 @@ I'm particularly interested in Artificial Intelligence and Machine Learning, and
 
 ---
 
-
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-
-
 ## GitHub Activity
 
 <div align="center">
@@ -105,18 +77,6 @@ I'm particularly interested in Artificial Intelligence and Machine Learning, and
 
 ---
 
-
-<!-- GitHub Contribution Calendar -->
-
-<img src="https://ghchart.rshah.org/7F00FF/arnavdedhia" width="100%" alt="GitHub Contribution Graph" />
-
-</div>
-
----
-
-
-<!-- ==================== CURRENTLY EXPLORING ==================== -->
-
 ## Currently Exploring
 
 - Deep Learning and Neural Networks.
@@ -126,8 +86,6 @@ I'm particularly interested in Artificial Intelligence and Machine Learning, and
 - New tools and technologies in the AI ecosystem.
 
 ---
-
-<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
